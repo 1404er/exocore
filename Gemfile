@@ -22,8 +22,8 @@ gem 'jekyll-wikilinks', '0.0.11'
 gem 'ruby-graphviz'
 gem "jekyll-graph"
 # tf
-gem "logger"
-gem "csv"
-gem "ostruct"
-gem "base64"
-gem "bigdecimal"
+# gem "logger"
+# gem "csv"
+# gem "ostruct"
+# gem "base64"
+# gem "bigdecimal"
