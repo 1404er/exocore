@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "4.2.1"
+gem "jekyll", "4.4.1"
 gem "jekyll-optional-front-matter"
 gem "jekyll-default-layout"
 gem "jekyll-readme-index"
@@ -19,8 +19,8 @@ gem "jekyll-redirect-from"
 gem "jekyll-feed"
 gem "jekyll-tagging"
 gem 'jekyll-wikilinks', '0.0.11'
-gem 'ruby-graphviz'
-gem "jekyll-graph"
+# gem 'ruby-graphviz'
+# gem "jekyll-graph"
 # tf
 # gem "logger"
 # gem "csv"
