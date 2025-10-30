@@ -25,3 +25,5 @@ gem "jekyll-graph"
 # tf
 gem "logger"
 gem "csv"
+gem "ostruct"
+gem "base64"
