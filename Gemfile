@@ -20,10 +20,10 @@ gem "jekyll-feed"
 gem "jekyll-tagging"
 gem 'jekyll-wikilinks', '0.0.11'
 gem 'ruby-graphviz'
-gem "jekyll-last-modified-at"
 gem "jekyll-graph"
 # tf
 gem "logger"
 gem "csv"
 gem "ostruct"
 gem "base64"
+gem "bigdecimal"
